@@ -5,7 +5,7 @@ import { AvailabilityBadge } from "@/components/common/AvailabilityBadge";
 import { ArrowRight, Code2, Sparkles, Terminal, CheckCircle2 } from "lucide-react";
 import { FiverrIcon, UpworkIcon } from "@/components/common/BrandIcons";
 import { motion } from "framer-motion";
-import profilePhoto from "@/assets/adittya rahman (3).png";
+import profilePhoto from "@/assets/adittya-hero.webp";
 import { Hero3DTechCanvas } from "@/components/common/Hero3DTechCanvas";
 
 export const Hero = () => {

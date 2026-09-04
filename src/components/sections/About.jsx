@@ -3,7 +3,7 @@ import { Container } from "@/components/common/Container";
 import { SectionHeading } from "@/components/common/SectionHeading";
 import { Badge } from "@/components/common/Badge";
 import { GraduationCap, Briefcase, Code2, Globe, ArrowUpRight } from "lucide-react";
-import aboutPhoto from "@/assets/adittya rahman (2).png";
+import aboutPhoto from "@/assets/adittya-about.webp";
 
 export const About = () => {
   return (
