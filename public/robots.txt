@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://adittya-portfolio-three.vercel.app/sitemap.xml
